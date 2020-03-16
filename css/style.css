@@ -1,0 +1,11 @@
+.intro {
+	background-image: url('../images/1562095549.jpg');
+	color: white;
+	background-size: cover;
+	padding: 100px 50px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #888888;
+	text-align: center;
+	margin-bottom: 50px;
+}
